@@ -1,8 +1,10 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# WTF Webpack Starter Kit
 
 Simple toolkit for your static websites development.
+
+Prosta gra stworzona podczas kursu "Programowanie w JavaScript"
 
 ## How to use it?
 
