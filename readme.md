@@ -6,8 +6,8 @@ Simple toolkit for your static websites development.
 
 Prosta gra stworzona podczas kursu "Programowanie w JavaScript"
 
-
 ## How to use it?
+
 
 Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
 
@@ -19,3 +19,5 @@ Click on `Use this template` button to generate a new repository based on this s
 
 `npm run publish` - runs build process and publish the page using `gh-pages` branch
 
+
+Work on progress ....
